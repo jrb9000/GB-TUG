@@ -1,4 +1,6 @@
-# gitbook-tech-docs
+---
+description: 'Coder Speed: Fast code, fast lifestyle... To infinity & Beyond!'
+---
 
-## GitBook: Coder Speed
+# Going Fast
 
