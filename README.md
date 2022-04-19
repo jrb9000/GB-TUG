@@ -1,3 +1,9 @@
-# gitbook-tech-docs
+---
+coverY: 0
+---
 
-Space: Wiki
+# Welcome!
+
+## Welcome aboard!
+
+Welcome to the company wiki! Here you'll find everything you need to know about the company.
