@@ -1,0 +1,2 @@
+# Brave New Coin
+
