@@ -4,7 +4,7 @@
 
 ## APIs
 
-* [☀ Overview](apis/overview.md)
+* [📔 Overview of APIs](apis/overview-of-apis.md)
 * [LinkedIn API](apis/linkedin-api.md)
 * [GitHub API](apis/github-api.md)
 * [Page 2](apis/page-2.md)
