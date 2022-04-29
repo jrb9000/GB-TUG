@@ -28,4 +28,4 @@
   * [🐍 Pybraries](apis/libraries.io/pybraries.md)
 * [LinkedIn API](apis/linkedin-api.md)
 * [GitHub API](apis/github-api.md)
-* [Page 2](apis/page-2.md)
+* [Open Page Rank](apis/open-page-rank.md)
