@@ -1,14 +1,16 @@
 ---
 description: >-
   Guides, tips, tools, apps, resources and tutorials for using  Apple's MacBook
-  Pro macOS Montery
+  Pro macOS.
 ---
 
-# MacBook Pro
+# macOS
 
-****
+## Essential References (URLs)
 
-**Official Apple Support **
+###
+
+### **Official Apple Support **
 
 * [macOS User Guide](https://support.apple.com/guide/mac-help/welcome/mac) ↗️
 * [MacBook Pro Essentials](https://support.apple.com/guide/macbook-pro/welcome/mac) ↗️

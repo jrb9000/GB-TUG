@@ -1,8 +1,10 @@
 # Table of contents
 
 * [💻 macOS: MacBook Pro](README.md)
-* [MacBook Pro](macbook-pro/README.md)
-  * [Finder QuickLook](macbook-pro/finder-quicklook.md)
+* [macOS](macos/README.md)
+  * [Personalize System Settings](macos/personalize-system-settings.md)
+  * [Finder QuickLook](macos/finder-quicklook.md)
+* [Page](page.md)
 
 ## Guides
 

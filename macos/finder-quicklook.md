@@ -3,8 +3,8 @@
 ### Resources
 
 * [**Quick Look plugins**](https://github.com/sindresorhus/quick-look-plugins): _List of useful Quick Look plugins for developers_
-* ****[**QuickLook Plugins List**](https://www.quicklookplugins.com): _A directory of Quick Look Plugins for Apple's OS X_
-* __
+* [**QuickLook Plugins List**](https://www.quicklookplugins.com/): _A directory of Quick Look Plugins for Apple's OS X_
+*
 
 ### Overview
 
@@ -14,7 +14,7 @@
 
 * `/System/Library/QuickLook/`
 * `~/QuickLook`
-* ``
+*
 
 ```bash
 brew install qlcolorcode \
@@ -57,7 +57,7 @@ qlmanage -r
 
 * &#x20;`{` 🔌 `=` QuickLook Plugin, 💻 `=` Application `}`&#x20;
 
-``
+
 
 🔌[**QLColorCode**](https://whomwah.github.io/qlstephen/)**:** _Renders source code with syntax highlighting._
 
@@ -117,12 +117,11 @@ brew install --cask QuickLookASE
 #> ~/Library/QuickLook/QuickLookASE.qlgenerator
 ```
 
-_****_[_**💻**_**Jupyter Notebook Viewer**](https://github.com/tuxu/nbviewer-app)**:** _A Jupyter notebook viewer for macOS_
+[_**💻**_**Jupyter Notebook Viewer**](https://github.com/tuxu/nbviewer-app)**:** _A Jupyter notebook viewer for macOS_
 
 ```bash
 brew install --cask jupyter-notebook-viewer
 ```
 
-__
 
-__
+
