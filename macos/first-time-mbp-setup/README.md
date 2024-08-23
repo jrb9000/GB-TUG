@@ -1,6 +1,6 @@
 ---
-description: MacBook Pro Setup - First boot, securing your Mac with best practices.
 icon: rocket-launch
+description: MacBook Pro Setup - First boot, securing your Mac with best practices.
 cover: >-
   https://docs-assets.developer.apple.com/published/554cce3cf44640dce126d5f03adca6cd/patterns-settings-intro~dark@2x.png
 coverY: 0
@@ -50,16 +50,9 @@ We'll use `scutil` - _Manage system configuration parameters. Require root privi
 Utilities like `sudo` have [weaknesses that can be exploited](https://bogner.sh/2014/03/another-mac-os-x-sudo-password-bypass/) by concurrently running programs.
 {% endhint %}
 
+***
 
-
-
-
-
-
-* _Login Options_ -> _Change fast user switching menu as Icon_
-* Set up _Password_, _Apple ID_, _Picture_, etc.
-
-
-
-TCP/IP DNS WINS 802.1X Proxies Hardware
+{% content-ref url="personalization-checklists/user-account-apple-id-and-icloud.md" %}
+[user-account-apple-id-and-icloud.md](personalization-checklists/user-account-apple-id-and-icloud.md)
+{% endcontent-ref %}
 

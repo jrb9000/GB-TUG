@@ -7,8 +7,11 @@
       * [Dual Booting Mac](macos/first-time-mbp-setup/other-macos-versions/dual-booting-mac/README.md)
         * [Two Versions of macOS](macos/first-time-mbp-setup/other-macos-versions/dual-booting-mac/two-versions-of-macos.md)
         * [Another OS on Partitioned Boot Disk](macos/first-time-mbp-setup/other-macos-versions/dual-booting-mac/another-os-on-partitioned-boot-disk.md)
-    * [Page 1](macos/first-time-mbp-setup/page-1.md)
-  * [System Settings & Configuration](macos/system-settings-and-configuration.md)
+    * [Personalization Checklists](macos/first-time-mbp-setup/personalization-checklists/README.md)
+      * [User Account, Apple ID & iCloud](macos/first-time-mbp-setup/personalization-checklists/user-account-apple-id-and-icloud.md)
+      * [Notifications, Focus Profiles & Usage Limits](macos/first-time-mbp-setup/personalization-checklists/notifications-focus-profiles-and-usage-limits.md)
+  * [System Settings & Configuration](macos/system-settings-and-configuration/README.md)
+    * [Page 1](macos/system-settings-and-configuration/page-1.md)
   * [Finder QuickLook](macbook-pro/finder-quicklook.md)
 * [Page](page.md)
 
