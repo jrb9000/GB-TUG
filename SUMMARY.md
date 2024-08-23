@@ -1,9 +1,15 @@
 # Table of contents
 
 * [💻 macOS: MacBook Pro](README.md)
-* [macOS](macos/README.md)
-  * [Personalize System Settings](macos/personalize-system-settings.md)
-  * [Finder QuickLook](macos/finder-quicklook.md)
+* [macOS](macbook-pro/README.md)
+  * [First Time MBP Setup](macos/first-time-mbp-setup/README.md)
+    * [Other macOS Versions](macos/first-time-mbp-setup/other-macos-versions/README.md)
+      * [Dual Booting Mac](macos/first-time-mbp-setup/other-macos-versions/dual-booting-mac/README.md)
+        * [Two Versions of macOS](macos/first-time-mbp-setup/other-macos-versions/dual-booting-mac/two-versions-of-macos.md)
+        * [Another OS on Partitioned Boot Disk](macos/first-time-mbp-setup/other-macos-versions/dual-booting-mac/another-os-on-partitioned-boot-disk.md)
+    * [Page 1](macos/first-time-mbp-setup/page-1.md)
+  * [System Settings & Configuration](macos/system-settings-and-configuration.md)
+  * [Finder QuickLook](macbook-pro/finder-quicklook.md)
 * [Page](page.md)
 
 ## Guides

@@ -8,7 +8,9 @@ description: >-
 
 ## Essential References (URLs)
 
-###
+### My Favorite Reads
+
+{% embed url="https://github.com/drduh/macOS-Security-and-Privacy-Guide#admin-and-user-accounts" %}
 
 ### **Official Apple Support **
 
@@ -17,3 +19,8 @@ description: >-
 * [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236) ↗️&#x20;
 * [macOS Support](https://support.apple.com/macos) ↗️
 * [Apple Support Shortcuts User Guide](https://support.apple.com/guide/shortcuts/welcome/ios) (_for iPhone & iPad_) ↗️
+
+### Other Relevant Resources
+
+* [NIST's macOS Security Compliance Project](https://github.com/usnistgov/macos\_security)
+*
