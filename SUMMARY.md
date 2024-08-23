@@ -1,6 +1,6 @@
 # Table of contents
 
-* [💻 macOS (MacBook Pro)](README.md)
+* [💻 macOS & MacBook Pro](README.md)
 * [macOS](macbook-pro/README.md)
   * [First Time MBP Setup](macos/first-time-mbp-setup/README.md)
     * [Other macOS Versions](macos/first-time-mbp-setup/other-macos-versions/README.md)
