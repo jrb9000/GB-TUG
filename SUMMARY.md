@@ -1,7 +1,7 @@
 # Table of contents
 
 * [💻 macOS & MacBook Pro](README.md)
-* [macOS](macbook-pro/README.md)
+* [macOS](macos/README.md)
   * [First Time MBP Setup](macos/first-time-mbp-setup/README.md)
     * [Other macOS Versions](macos/first-time-mbp-setup/other-macos-versions/README.md)
       * [Dual Booting Mac](macos/first-time-mbp-setup/other-macos-versions/dual-booting-mac/README.md)
@@ -12,7 +12,7 @@
       * [Notifications, Focus Profiles & Usage Limits](macos/first-time-mbp-setup/personalization-checklists/notifications-focus-profiles-and-usage-limits.md)
   * [System Settings & Configuration](macos/system-settings-and-configuration/README.md)
     * [Page 1](macos/system-settings-and-configuration/page-1.md)
-  * [Finder QuickLook](macbook-pro/finder-quicklook.md)
+  * [Finder QuickLook](macos/finder-quicklook.md)
 * [Page](page.md)
 
 ## Guides
